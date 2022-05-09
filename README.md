@@ -54,4 +54,6 @@
 <img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/33959275/167510965-55b9b940-4fc5-4c7f-b113-503725562cbe.svg" />
 </br>
 </br>
-<a href="https://github.com/Ahasun-h/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahasun-h&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&hiding=stats" alt="Forhadx's github stats" /></a> &nbsp; <a href="https://github.com/Ahasun-h/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasun-h&layout=compact&theme=dark&hide_border=true" /></a>
+| <a href="https://github.com/Ahasun-h/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahasun-h&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&text_color=2a5fc1&title_color=2a5fc1&icon_color=2a5fc1" alt="Forhadx's github stats" /></a> | <a href="https://github.com/Ahasun-h/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahasun-h&layout=compact&theme=dark&hide_border=true&title_color=2a5fc1" /></a> |
+| ------------- | ------------- |
+
