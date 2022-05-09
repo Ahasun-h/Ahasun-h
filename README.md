@@ -1,7 +1,7 @@
 # Hi there, I'm Ahasun👋 
 <p align="left"><a href="http://ahasun180.000webhostapp.com/">Visit My Website 🌐</a></P>
 
-<h2> I'm a <b>web designer & developer</b></h2>
+<h2> I'm a <b>web developer</b></h2>
 
 - 🔭 I’m currently working on Laravel and Vue js.
 - ⚡ I have good knowledge of Android App Development.
